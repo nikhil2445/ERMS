@@ -1,5 +1,5 @@
-Employee ID:
-Employee Name:
-Department:
-Designation:
-Salary:
+Employee ID: 12406647
+Employee Name:Nikhil Singh
+Department:CSE
+Designation:Student
+Salary:100000
