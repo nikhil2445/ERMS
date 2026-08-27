@@ -3,3 +3,5 @@ Employee Name:Nikhil Singh
 Department:CSE
 Designation:Student
 Salary:100000
+College: Lpu
+Company :Tata
